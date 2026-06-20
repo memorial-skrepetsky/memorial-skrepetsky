@@ -1,0 +1,109 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" viewBox="0 0 900 700" role="img">
+<title>«Всё стабильно» — homenaje en el estilo de Semyon Skrepetsky</title>
+<desc>Un escrépets (patriota) encorvado bebe de una botella mientras contempla la refinería de Moscú en llamas bajo un cielo con drones.</desc>
+
+<rect x="0" y="0" width="900" height="470" fill="#c08a3a"/>
+<ellipse cx="712" cy="360" rx="350" ry="260" fill="#b3461c" opacity="0.55"/>
+<ellipse cx="732" cy="392" rx="225" ry="180" fill="#dd6a1f" opacity="0.5"/>
+
+<path d="M0,440 L250,454 L520,442 L900,468 L900,700 L0,700 Z" fill="#221d12"/>
+<path d="M0,440 L250,454 L520,442 L900,468" fill="none" stroke="#120d06" stroke-width="3"/>
+
+<g stroke="#120d06" stroke-width="3" stroke-linejoin="round">
+  <rect x="70" y="404" width="180" height="40" fill="#15110a"/>
+  <rect x="150" y="322" width="44" height="86" fill="#15110a"/>
+  <path d="M146,324 L198,324 L172,286 Z" fill="#15110a"/>
+  <line x1="172" y1="286" x2="172" y2="268"/>
+</g>
+<polygon points="172,256 176,268 188,268 178,276 182,288 172,280 162,288 166,276 156,268 168,268" fill="#c0381a"/>
+
+<g fill="#120d06">
+  <g transform="translate(300,118)">
+    <line x1="-16" y1="-9" x2="16" y2="9" stroke="#120d06" stroke-width="3"/>
+    <line x1="-16" y1="9" x2="16" y2="-9" stroke="#120d06" stroke-width="3"/>
+    <rect x="-6" y="-5" width="12" height="10"/>
+    <ellipse cx="-16" cy="-9" rx="8" ry="3"/><ellipse cx="16" cy="-9" rx="8" ry="3"/>
+    <ellipse cx="-16" cy="9" rx="8" ry="3"/><ellipse cx="16" cy="9" rx="8" ry="3"/>
+  </g>
+  <g transform="translate(432,92) scale(0.85)">
+    <line x1="-16" y1="-9" x2="16" y2="9" stroke="#120d06" stroke-width="3.5"/>
+    <line x1="-16" y1="9" x2="16" y2="-9" stroke="#120d06" stroke-width="3.5"/>
+    <rect x="-6" y="-5" width="12" height="10"/>
+    <ellipse cx="-16" cy="-9" rx="8" ry="3"/><ellipse cx="16" cy="-9" rx="8" ry="3"/>
+    <ellipse cx="-16" cy="9" rx="8" ry="3"/><ellipse cx="16" cy="9" rx="8" ry="3"/>
+  </g>
+  <g transform="translate(544,150) scale(0.9)">
+    <line x1="-16" y1="-9" x2="16" y2="9" stroke="#120d06" stroke-width="3.3"/>
+    <line x1="-16" y1="9" x2="16" y2="-9" stroke="#120d06" stroke-width="3.3"/>
+    <rect x="-6" y="-5" width="12" height="10"/>
+    <ellipse cx="-16" cy="-9" rx="8" ry="3"/><ellipse cx="16" cy="-9" rx="8" ry="3"/>
+    <ellipse cx="-16" cy="9" rx="8" ry="3"/><ellipse cx="16" cy="9" rx="8" ry="3"/>
+  </g>
+  <g transform="translate(636,104) scale(0.78)">
+    <line x1="-16" y1="-9" x2="16" y2="9" stroke="#120d06" stroke-width="4"/>
+    <line x1="-16" y1="9" x2="16" y2="-9" stroke="#120d06" stroke-width="4"/>
+    <rect x="-6" y="-5" width="12" height="10"/>
+    <ellipse cx="-16" cy="-9" rx="8" ry="3"/><ellipse cx="16" cy="-9" rx="8" ry="3"/>
+    <ellipse cx="-16" cy="9" rx="8" ry="3"/><ellipse cx="16" cy="9" rx="8" ry="3"/>
+  </g>
+  <g transform="translate(206,168) scale(0.7)">
+    <line x1="-16" y1="-9" x2="16" y2="9" stroke="#120d06" stroke-width="4.4"/>
+    <line x1="-16" y1="9" x2="16" y2="-9" stroke="#120d06" stroke-width="4.4"/>
+    <rect x="-6" y="-5" width="12" height="10"/>
+    <ellipse cx="-16" cy="-9" rx="8" ry="3"/><ellipse cx="16" cy="-9" rx="8" ry="3"/>
+    <ellipse cx="-16" cy="9" rx="8" ry="3"/><ellipse cx="16" cy="9" rx="8" ry="3"/>
+  </g>
+  <g transform="translate(486,62) scale(0.6)">
+    <line x1="-16" y1="-9" x2="16" y2="9" stroke="#120d06" stroke-width="5"/>
+    <line x1="-16" y1="9" x2="16" y2="-9" stroke="#120d06" stroke-width="5"/>
+    <rect x="-6" y="-5" width="12" height="10"/>
+    <ellipse cx="-16" cy="-9" rx="8" ry="3"/><ellipse cx="16" cy="-9" rx="8" ry="3"/>
+    <ellipse cx="-16" cy="9" rx="8" ry="3"/><ellipse cx="16" cy="9" rx="8" ry="3"/>
+  </g>
+</g>
+
+<ellipse cx="690" cy="150" rx="46" ry="30" fill="#3f3a32" opacity="0.85"/>
+<ellipse cx="640" cy="104" rx="56" ry="34" fill="#3f3a32" opacity="0.6"/>
+<ellipse cx="588" cy="68" rx="62" ry="36" fill="#3f3a32" opacity="0.38"/>
+
+<g stroke="#120d06" stroke-width="3" stroke-linejoin="round">
+  <rect x="600" y="250" width="14" height="200" fill="#4d473f"/>
+  <rect x="824" y="276" width="14" height="174" fill="#4d473f"/>
+  <line x1="606" y1="352" x2="831" y2="352" stroke="#120d06" stroke-width="7"/>
+  <rect x="648" y="306" width="150" height="146" fill="#5a554c"/>
+  <ellipse cx="723" cy="306" rx="75" ry="20" fill="#6b655b"/>
+</g>
+<path d="M662,300 C640,230 690,212 700,150 C720,212 742,172 760,202 C788,242 778,290 770,300 Z" fill="#c0381a"/>
+<path d="M678,300 C664,242 700,226 706,182 C722,226 740,206 748,226 C766,256 760,288 752,300 Z" fill="#e8771f"/>
+<path d="M696,300 C688,256 708,238 712,206 C726,240 736,232 740,250 C750,272 744,292 738,300 Z" fill="#f2b33a"/>
+
+<path d="M90,700 L108,576 C150,500 250,486 318,486 C386,486 470,502 500,582 L516,700 Z" fill="#3a2c1a" stroke="#120d06" stroke-width="4" stroke-linejoin="round"/>
+<path d="M198,548 L222,548 L216,576 L204,576 Z" fill="#b3461c" stroke="#120d06" stroke-width="2"/>
+<circle cx="210" cy="588" r="14" fill="#c9a24b" stroke="#120d06" stroke-width="2"/>
+<circle cx="210" cy="588" r="6" fill="#a07e2e"/>
+
+<rect x="288" y="452" width="68" height="56" fill="#caa97f" stroke="#120d06" stroke-width="4"/>
+<ellipse cx="322" cy="408" rx="78" ry="88" fill="#d8c4a0" stroke="#120d06" stroke-width="4"/>
+<path d="M244,392 C238,318 300,300 322,300 C346,300 408,320 400,396 C360,360 286,360 244,392 Z" fill="#241a10" stroke="#120d06" stroke-width="4" stroke-linejoin="round"/>
+<path d="M250,392 C230,412 233,452 256,452 C262,420 262,406 250,392 Z" fill="#241a10" stroke="#120d06" stroke-width="3"/>
+<g fill="#6b5a3e">
+  <circle cx="296" cy="462" r="2.4"/><circle cx="308" cy="470" r="2.4"/><circle cx="320" cy="476" r="2.4"/>
+  <circle cx="334" cy="476" r="2.4"/><circle cx="348" cy="470" r="2.4"/><circle cx="300" cy="476" r="2.2"/>
+  <circle cx="314" cy="482" r="2.2"/><circle cx="328" cy="484" r="2.2"/><circle cx="342" cy="480" r="2.2"/>
+  <circle cx="356" cy="462" r="2.2"/><circle cx="290" cy="452" r="2.2"/><circle cx="358" cy="450" r="2.2"/>
+  <circle cx="322" cy="468" r="2.2"/><circle cx="336" cy="466" r="2.2"/>
+</g>
+<path d="M340,388 C356,378 376,380 388,392" fill="none" stroke="#120d06" stroke-width="6" stroke-linecap="round"/>
+<ellipse cx="364" cy="406" rx="12" ry="9" fill="#efe7d6" stroke="#120d06" stroke-width="2"/>
+<circle cx="370" cy="407" r="5" fill="#120d06"/>
+<path d="M384,402 C406,418 412,448 392,456 C380,460 372,452 372,440" fill="#caa07a" stroke="#120d06" stroke-width="4" stroke-linejoin="round"/>
+
+<path d="M470,582 C470,520 430,470 396,452 L372,470 C404,492 432,540 440,596 Z" fill="#3a2c1a" stroke="#120d06" stroke-width="4" stroke-linejoin="round"/>
+<path d="M372,470 C356,460 350,442 362,432 C376,440 388,452 392,466 Z" fill="#d8c4a0" stroke="#120d06" stroke-width="3"/>
+<path d="M360,452 L378,440 L430,400 L452,422 L398,462 L378,468 Z" fill="#3f5a2a" stroke="#120d06" stroke-width="3" stroke-linejoin="round"/>
+<path d="M384,440 L426,410" stroke="#7a9a44" stroke-width="5" opacity="0.6" fill="none"/>
+<circle cx="442" cy="412" r="8" fill="#2a3a1c" stroke="#120d06" stroke-width="2"/>
+
+<text x="40" y="662" fill="#e0c373" font-family="Georgia, 'Times New Roman', serif" font-size="27" font-style="italic">«Всё стабильно»</text>
+<text x="42" y="687" fill="#b6a684" font-family="Georgia, serif" font-size="15">в стиле Семёна Скрепецкого · 18.06.2026</text>
+</svg>

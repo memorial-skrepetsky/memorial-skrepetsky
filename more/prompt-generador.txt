@@ -1,0 +1,41 @@
+PROMPT PARA GENERADOR DE IMÁGENES — obra al estilo de Semyon Skrepetsky
+(escena: ataque de drones sobre Moscú, 18 de junio de 2026)
+=======================================================================
+
+Pega esto en un generador de imágenes (Midjourney, Leonardo.ai, DALL·E 3 /
+ChatGPT, Stable Diffusion, etc.). Está en inglés porque rinden mejor así.
+
+--- PROMPT (positivo) ---
+Naïve neo-primitivist oil painting on rough canvas, in the style of Russian
+dissident folk-art satire (lubok-inspired), thick impasto brushstrokes, crude
+bold black outlines, deliberately distorted grotesque caricature proportions,
+muddy earthy palette of ochre, oxblood red, olive green and dirty yellow.
+A hunched, drunk Russian "patriot" wearing a fur ushanka hat and cheap tin
+medals on a tattered coat, swigging from a bottle of cheap spirit, seen from
+behind and half-turned, watching a huge oil refinery burning on the horizon;
+ochre sky full of small black attack drones, columns of black smoke, a distant
+Kremlin tower with a red star. Dark political satire, absurdist, tragicomic,
+flat naïve perspective, visible canvas texture. --ar 4:3
+
+--- PROMPT (negativo, si el generador lo admite) ---
+photorealistic, 3d render, smooth digital art, anime, glossy, clean vector,
+hyperrealism, modern cartoon, watermark, lettering
+
+--- TRUCO PARA QUE SE PAREZCA AL MÁXIMO A ÉL ---
+Sube 2 o 3 de sus cuadros reales (de la carpeta media/photos/...) como
+"referencia de estilo":
+  - Midjourney:  --sref  (style reference) con esas imágenes
+  - Leonardo.ai: "Image Guidance" / Style Reference
+  - Stable Diffusion: img2img con denoise bajo (0.4–0.6)
+Eso traslada su paleta y su pincelada mucho mejor que solo el texto.
+
+--- CÓMO PONERLA EN LA WEB (botón "More") ---
+1. Guarda la imagen generada como:  more/work-drones-moscow.jpg
+2. En more/more.json, en el post "more-3", cambia:
+       "local_photos": ["more/work-drones-moscow.svg"]
+   por:
+       "local_photos": ["more/work-drones-moscow.jpg"]
+3. Recarga la web y pulsa "More".
+
+Generadores con acabado más "óleo": Midjourney y Leonardo.ai.
+El más fácil/gratis para probar ya: DALL·E 3 dentro de ChatGPT o Bing Image Creator.
