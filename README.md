@@ -16,8 +16,6 @@ videos and posts — and presents it as a **bilingual memorial website
 
 **Links:** YouTube channel — <https://www.youtube.com/@СемёнСкрепецкий>
 
-*(Versión en español: [README.es.md](README.es.md))*
-
 ## What's in this folder
 
 ```
