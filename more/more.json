@@ -1,0 +1,36 @@
+{
+  "title": "Продолжение / Continuation",
+  "note": "Контент, созданный в память о Семёне Скрепецком — его дело продолжается. / Content created in memory of Semyon Skrepetsky — his work continues.",
+  "posts": [
+    {
+      "id": "more-1",
+      "datetime": "2026-06-20T12:00:00+00:00",
+      "text": "«Продолжение» (пример). Холст, масло.\n\nЭто публикация-заглушка из раздела «More». Здесь будут появляться новые работы, созданные в память о Семёне Скрепецком, чтобы его дело продолжалось. Замените это изображение и текст своими.",
+      "text_en": "\"Continuation\" (sample). Oil on canvas.\n\nThis is a placeholder post from the \"More\" section. New works created in memory of Semyon Skrepetsky will appear here, so that his work continues. Replace this image and text with your own.",
+      "local_photos": ["more/placeholder-1.jpg"],
+      "local_videos": [],
+      "video_thumbs": [],
+      "photos": [],
+      "videos": [],
+      "hashtags": ["продолжение", "memory"],
+      "views": "",
+      "url": null,
+      "reactions": {}
+    },
+    {
+      "id": "more-2",
+      "datetime": "2026-06-20T12:30:00+00:00",
+      "text": "«Его дело живёт» (пример). Холст, акрил.\n\nВторая публикация-заглушка. Добавляйте сюда фотографии работ с описанием — формат тот же, что и в основном каталоге: текст на русском (text) и перевод на английский (text_en).",
+      "text_en": "\"His Work Lives On\" (sample). Acrylic on canvas.\n\nA second placeholder post. Add photos of works with descriptions here — the format is the same as in the main catalog: text in Russian (text) and an English translation (text_en).",
+      "local_photos": ["more/placeholder-2.jpg"],
+      "local_videos": [],
+      "video_thumbs": [],
+      "photos": [],
+      "videos": [],
+      "hashtags": ["продолжение", "memory"],
+      "views": "",
+      "url": null,
+      "reactions": {}
+    }
+  ]
+}

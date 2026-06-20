@@ -1,0 +1,11 @@
+# OS / editor junk
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# --- GitHub Pages note ---
+# A published GitHub Pages site may be at most 1 GB.
+# The videos folder is ~1.3 GB, so it does NOT fit on GitHub Pages.
+# Uncomment the line below to keep the videos OUT of the repo
+# (host them elsewhere or link them to YouTube instead):
+# media/videos/
